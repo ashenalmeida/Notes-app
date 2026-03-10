@@ -1,0 +1,19 @@
+# Android Studio
+*.iml
+.gradle/
+.idea/
+
+# Local configuration
+local.properties
+
+# Build folders
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# macOS system files
+.DS_Store
+
+# Firebase config (do not upload)
+app/google-services.json
